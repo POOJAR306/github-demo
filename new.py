@@ -1,1 +1,3 @@
-print(10%2)
+s = "Hello"
+v = "Good morning"
+print(s + v)
